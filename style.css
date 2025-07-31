@@ -125,8 +125,10 @@ button:disabled {
         font-size: 24px;
     }
 
-    .container__imagem-pessoa {
-        display: none;
+    .container__imagem-cat {
+        max-width: 100%;
+        height: auto;
+        display: block;
     }
 
     .container__conteudo {
