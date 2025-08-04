@@ -125,8 +125,9 @@ button:disabled {
         font-size: 24px;
     }
 
-    .container__imagem-pessoa {
-        display: none;
+    .container__imagem-catt {
+        display: block;
+        max-width: 80%
     }
 
     .container__conteudo {
@@ -134,6 +135,10 @@ button:disabled {
         position: inherit;
     }
 
+    .container__informacoes {
+        padding: 1rem
+    }
+}
     .container__informacoes {
         padding: 1rem
     }
